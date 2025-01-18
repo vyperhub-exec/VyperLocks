@@ -1,0 +1,1 @@
+local function executecheck() game:GetService("RunService").RenderStepped:Wait() game.Players.LocalPlayer:Kick("Dumass you are banned for exploiting") end executecheck()
